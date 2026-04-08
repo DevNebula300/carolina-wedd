@@ -714,6 +714,7 @@ a:hover {
 .page-centred__inner {
   max-width: 44rem;
   width: 100%;
+  margin: 0 auto;
   text-align: center;
 }
 
